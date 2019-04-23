@@ -1,0 +1,7 @@
+C:\Users\Richie\source\repos\BONUS3\BONUS3\bin\Debug\BONUS3.exe.config
+C:\Users\Richie\source\repos\BONUS3\BONUS3\bin\Debug\BONUS3.exe
+C:\Users\Richie\source\repos\BONUS3\BONUS3\bin\Debug\BONUS3.pdb
+C:\Users\Richie\source\repos\BONUS3\BONUS3\obj\Debug\BONUS3.csprojAssemblyReference.cache
+C:\Users\Richie\source\repos\BONUS3\BONUS3\obj\Debug\BONUS3.csproj.CoreCompileInputs.cache
+C:\Users\Richie\source\repos\BONUS3\BONUS3\obj\Debug\BONUS3.exe
+C:\Users\Richie\source\repos\BONUS3\BONUS3\obj\Debug\BONUS3.pdb
